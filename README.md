@@ -1,5 +1,5 @@
 # Displaying D&D 5e Conditions
-This module alters the icons in the Status Effects panel of the Token Hub to reflect the possible "conditions" in D&D 5e.  It also limits the use of the effects overlay to displaying whether the token is seriously wounded, unconscious, or dead. The module automatically uses a red `wounded` overlay when HP falls below 50%.  When HP falls to zero, the display automatically switches to a yellow `unconscious` overlay.  At zero HP, the overlay can be toggled between `unconscious` and `dead` using either the Token HUD or the `Mark Defeated` icon in the Combat Tracker.
+A modified fork of Conditions for 5E with customized overlay tokens.
   
 # Installation
 See https://github.com/foundry-vtt-community/wiki/wiki/Modules#installing-modules. Open the Add-on Modules tab in the Configuration and Setup dialog. Click Install Module, paste `https://raw.githubusercontent.com/trdischat/conditions5e/master/module.json` in as the Manifest URL, then click Install.
