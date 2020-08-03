@@ -5,7 +5,7 @@
   "version": "0.4.5.7",
   "minimumCoreVersion": "0.4.5",
   "compatibleCoreVersion": "0.6.2",
-  "author": "trdischat",
+  "author": "Andy",
   "systems": ["dnd5e"],
   "scripts": ["main.js", "patchlib.js"],
   "styles": [],
