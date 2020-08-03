@@ -1,5 +1,5 @@
 # Displaying D&D 5e Conditions
-A modified fork of Conditions for 5E with customized overlay tokens.
+A modified fork of Conditions for 5E by trdischat with customized overlay tokens.
   
 # Installation
 See https://github.com/foundry-vtt-community/wiki/wiki/Modules#installing-modules. Open the Add-on Modules tab in the Configuration and Setup dialog. Click Install Module, paste `https://raw.githubusercontent.com/trdischat/conditions5e/master/module.json` in as the Manifest URL, then click Install.
