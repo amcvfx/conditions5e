@@ -20,7 +20,7 @@ Token.prototype._updateHealthOverlay = function(tok) {
   let priorHealth = tok.data.overlayEffect;
   let newHealth = null;
   if ( curHP <= 0 ) {
-    if ( priorHealth === "modules/conditions5e/icons/health_dead.png" ) newHealth = priorHealth;
+    if ( priorHealth === "modules/conditions5e/icons/health_dying.png" ) newHealth = priorHealth;
     else newHealth = "modules/conditions5e/icons/health_dying_ally.png";
   }
   else if ( curHP / maxHP < 0.5 ) newHealth = "modules/conditions5e/icons/health_critical.png";
